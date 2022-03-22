@@ -1,0 +1,7 @@
+/node-modules/
+/target/*
+*.class
+
+
+log.txt
+/dir1/
